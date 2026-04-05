@@ -11,7 +11,7 @@ Este proyecto predice la deserción de clientes en una cadena de gimnasios utili
 - Generar recomendaciones accionables para reducir la tasa de deserción
 
 ---
-## 🛠️ Herramientas y Librerías
+##  Herramientas y Librerías
 
 | Librería | Uso |
 |---|---|
@@ -37,7 +37,7 @@ Este proyecto predice la deserción de clientes en una cadena de gimnasios utili
 
 ### 3. Aprendizaje Supervisado – Modelos de Clasificación
 
-#### 🔹 Regresión Logística
+####  Regresión Logística
 Modelo estadístico que estima la probabilidad de un resultado binario (deserción o no deserción) a partir de las variables de entrada. Encuentra la frontera lineal óptima para separar ambas clases.
 
 **Resultados:**
